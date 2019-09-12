@@ -1,5 +1,5 @@
 ## How to install:
-- Click on Clone or download on this Github page >> Download zip
+- Click on Clone or download on this Github page >> Download ZIP
 - Extract .zip archive to Desktop
 - Open Google Chrome
 - Enter this URL: chrome://extensions
