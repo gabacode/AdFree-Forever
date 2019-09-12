@@ -1,6 +1,4 @@
-Work in Progress
-
-##How to install:
+## How to install:
 - Click on Clone or Download >> Download zip
 - Extract .zip archive to Desktop
 - Open Google Chrome
@@ -9,4 +7,4 @@ Work in Progress
 - Drag and drop the extracted folder onto the extension window
 - Profit
 
-##More infos coming soon...
+## More infos coming soon...
