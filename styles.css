@@ -1,6 +1,9 @@
 /*The Independent*/
 .adblock-notice{opacity:0!important}
 .tp-backdrop.tp-active{display:none!important}
+.tp-modal{display:none!important}
 .premium-content{display:none!important}
 .pn-gold-bar{display:none!important}
 .trc_related_container{display:none!important}
+/*Google (just because)*/
+.grecaptcha-badge {display: none!important}
