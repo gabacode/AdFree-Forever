@@ -6,5 +6,3 @@
 - Switch ON "Developer Mode"
 - Drag and drop the extracted folder onto the extension window
 - Profit
-
-## More infos coming soon...
