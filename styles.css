@@ -1,14 +1,52 @@
 /*The Independent*/
-.adblock-notice{opacity:0!important}
-.tp-backdrop.tp-active{display:none!important}
-.tp-modal{display:none!important}
-.premium-content{display:none!important}
-.pn-gold-bar{display:none!important}
-.trc_related_container{display:none!important}
+.adblock-notice {
+  opacity: 0 !important;
+}
+.tp-backdrop.tp-active {
+  display: none !important;
+}
+.tp-modal {
+  display: none !important;
+}
+.premium-content {
+  display: none !important;
+}
+.pn-gold-bar {
+  display: none !important;
+}
+.trc_related_container {
+  display: none !important;
+}
 /*Google (just because)*/
-.grecaptcha-badge {display: none!important}
+.grecaptcha-badge {
+  display: none !important;
+}
 /*Puntoebast*/
-#rumefUbbqBBe{display:none}
-.kKgSbghqqTJP-bg{display:none!important}
+#rumefUbbqBBe {
+  display: none;
+}
+.kKgSbghqqTJP-bg {
+  display: none !important;
+}
 /*VICE*/
-.sp-message-open{position:unset!important;overflow:unset!important}
+.sp-message-open {
+  position: unset !important;
+  overflow: unset !important;
+}
+/* Il Corriere della Sera */
+.tp-modal.wall-modal.fullWide,
+.tp-backdrop.tp-active {
+  display: none !important;
+}
+.tp-modal-open {
+  overflow: unset !important;
+}
+/* La Repubblica */
+.cookiewall__content {
+  display: none !important;
+  content: none !important;
+}
+.cookiewall:before {
+  background-color: transparent !important;
+}
+
